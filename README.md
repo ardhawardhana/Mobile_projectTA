@@ -95,7 +95,7 @@ lib/
 
 ## 👥 Kontributor
 
-- **Ardha Wardhana** — Pengembang Utama (Fullstack Mobile Development)
+- **Bisma Arya Wardhana** — Pengembang Utama (Fullstack Mobile Development)
 
 ## 📄 Lisensi
 
