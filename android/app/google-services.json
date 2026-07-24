@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "326148138701",
+    "firebase_url": "https://ta-project-mobileapps-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ta-project-mobileapps",
+    "storage_bucket": "ta-project-mobileapps.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326148138701:android:46f65dfcd26b8e9c1bab84",
+        "android_client_info": {
+          "package_name": "com.example.ta_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRbgrbj0aWGSI9sy9OWKX3tsGdHBUdAxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
